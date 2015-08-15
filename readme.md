@@ -1,33 +1,11 @@
-### WK-Charts-2.0
+### Bezier Math
 
-Build with Typescript, d3, JSPM.
+a set of utility functions to manipulate bezie functions:
 
-Before you start:
-- install JSPM: 
-
-    npm install jspm -g
-	
-- install TSD to get typescript definitions: 
-
-    npm install tsd -g
-	
-- install a local file server. I am using live-server: 
-
-    npm install live-server -g
-	
-- install dependencies: (launches default browser at port 8080)
-
-    jspm install 
-	
-- install typescript definition files:
-	
-	tsd update --save
-	
-- run server: 
-
-    live-server 
-	
-have fun
+- horizontal or vertical intersection of a curve 
+- split a curve in two parts without changing its shape
+- compute a point on the curve based on the t value
+- convert a quadratic curve to a cubic curve
 
 
 
