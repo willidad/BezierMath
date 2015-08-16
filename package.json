@@ -1,4 +1,5 @@
 {
+  "name": "bezier-math",
   "main": "app/bezierFunctions.js",
   "jspm": {
     "registry": "github",
