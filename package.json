@@ -1,5 +1,5 @@
 {
-  "main": "app/bezierFunctions",
+  "main": "app/bezierFunctions.js",
   "jspm": {
     "registry": "github",
     "directories": {},
