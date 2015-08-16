@@ -1,6 +1,6 @@
 {
-  "main": "app/bezierFunctions",
-  "registy": "jspm",
+  "name": "bezier-math",
+  "main": "app/bezierFunctions.ts",
   "jspm": {
     "registry": "github",
     "directories": {},
